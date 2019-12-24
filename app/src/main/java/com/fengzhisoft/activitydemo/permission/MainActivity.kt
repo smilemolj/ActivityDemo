@@ -1,4 +1,4 @@
-package com.fengzhisoft.activitydemo
+package com.fengzhisoft.activitydemo.permission
 
 import android.Manifest
 import android.content.pm.PackageManager
@@ -7,6 +7,7 @@ import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
+import com.fengzhisoft.activitydemo.R
 import kotlinx.android.synthetic.main.activity_main.*
 
 

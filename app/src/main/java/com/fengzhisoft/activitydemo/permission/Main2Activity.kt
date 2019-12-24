@@ -1,7 +1,8 @@
-package com.fengzhisoft.activitydemo
+package com.fengzhisoft.activitydemo.permission
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.fengzhisoft.activitydemo.R
 import kotlinx.android.synthetic.main.activity_main2.*
 
 class Main2Activity : AppCompatActivity() {
